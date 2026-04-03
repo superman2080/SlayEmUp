@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 6b2bd82dc1af8d342a729c4dd7467c8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8700397739906215134
+    second: Arrow Projectile_0
+  - first:
+      213: -5289172973493897382
+    second: Arrow Projectile_1
+  - first:
+      213: 3740972958746828595
+    second: Arrow Projectile_2
+  - first:
+      213: 475919933836995597
+    second: Arrow Projectile_3
+  - first:
+      213: -8421540083817602608
+    second: Arrow Projectile_4
+  - first:
+      213: 2425963342170549823
+    second: Arrow Projectile_5
+  - first:
+      213: 2194384896871696481
+    second: Arrow Projectile_6
+  - first:
+      213: -6168203503342048462
+    second: Arrow Projectile_7
+  - first:
+      213: 5338166553578145185
+    second: Arrow Projectile_8
+  - first:
+      213: 8764950468257234571
+    second: Arrow Projectile_9
+  - first:
+      213: 315653474126033459
+    second: Arrow Projectile_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 700
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arrow Projectile_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 768
+        width: 380
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edca8b3d5a50eb870800000000000000
+      internalID: 8700397739906215134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow Projectile_1
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 584
+        width: 211
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57bc4f24351996b0800000000000000
+      internalID: -5289172973493897382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow Projectile_2
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 552
+        width: 227
+        height: 451
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f5270e51b9ae330800000000000000
+      internalID: 3740972958746828595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow Projectile_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 552
+        width: 391
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ca1e588aeca9600800000000000000
+      internalID: 475919933836995597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow Projectile_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 344
+        width: 415
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1a65ab9eda02b80800000000000000
+      internalID: -8421540083817602608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow Projectile_5
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 334
+        width: 118
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ee1307ec0caa120800000000000000
+      internalID: 2425963342170549823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow Projectile_6
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 455
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1680586ff65047e10800000000000000
+      internalID: 2194384896871696481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow Projectile_7
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 327
+        width: 207
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b2af02893266aa0800000000000000
+      internalID: -6168203503342048462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow Projectile_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 438
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a585e9923af41a40800000000000000
+      internalID: 5338166553578145185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow Projectile_9
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 8
+        width: 206
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ebd5e130c53a970800000000000000
+      internalID: 8764950468257234571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow Projectile_10
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 88
+        width: 207
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332766d892d616400800000000000000
+      internalID: 315653474126033459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f94dc161fb0aa2948aa5a25ab71fd935
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arrow Projectile_0: 8700397739906215134
+      Arrow Projectile_1: -5289172973493897382
+      Arrow Projectile_10: 315653474126033459
+      Arrow Projectile_2: 3740972958746828595
+      Arrow Projectile_3: 475919933836995597
+      Arrow Projectile_4: -8421540083817602608
+      Arrow Projectile_5: 2425963342170549823
+      Arrow Projectile_6: 2194384896871696481
+      Arrow Projectile_7: -6168203503342048462
+      Arrow Projectile_8: 5338166553578145185
+      Arrow Projectile_9: 8764950468257234571
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

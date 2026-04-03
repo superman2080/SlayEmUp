@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8629ab00e93625046a237dbf5da73dad, type: 3}
+  m_Name: AugmentationListSO
+  m_EditorClassIdentifier: 
+  augmentationDatas:
+  - className: MaxHPUp
+    augmentationName: "\uCD5C\uB300 \uCCB4\uB825 \uC99D\uAC00"
+    description: "\uCD5C\uB300 \uCCB4\uB825\uC774 10% \uC99D\uAC00\uD569\uB2C8\uB2E4."
+    icon: {fileID: 21300000, guid: 16d5c1ee202ae1e4a85fb5b463733d3c, type: 3}
+  - className: DamageUp
+    augmentationName: "\uB300\uBBF8\uC9C0 \uC99D\uAC00"
+    description: "\uB300\uBBF8\uC9C0\uAC00 10% \uC99D\uAC00\uD569\uB2C8\uB2E4."
+    icon: {fileID: 21300000, guid: a90a2550d07ae0e42b1d97e841bd5896, type: 3}
+  - className: Lifesteal
+    augmentationName: "\uD761\uD608"
+    description: "\uC801\uC5D0\uAC8C \uD53C\uD574\uB97C \uC785\uD790 \uC2DC \uCCB4\uB825\uC744
+      \uD68C\uBCF5\uD569\uB2C8\uB2E4."
+    icon: {fileID: 21300000, guid: 9b489bc1ac2c1a644bb377eaca8d1a96, type: 3}
+  - className: DefenseUp
+    augmentationName: "\uBC29\uC5B4\uB825 \uC99D\uAC00"
+    description: "\uBC29\uC5B4\uB825\uC774 10 \uC99D\uAC00\uD569\uB2C8\uB2E4."
+    icon: {fileID: 21300000, guid: d5ec12d0560675d47baed837161a6117, type: 3}
+  - className: MoveSpeedUp
+    augmentationName: "\uC18D\uB3C4 \uC99D\uAC00"
+    description: "\uC774\uB3D9 \uC18D\uB3C4\uAC00 10& \uC99D\uAC00\uD569\uB2C8\uB2E4."
+    icon: {fileID: 21300000, guid: d5ec12d0560675d47baed837161a6117, type: 3}
+  - className: Berserker
+    augmentationName: "\uC18D\uB3C4 \uC99D\uAC00"
+    description: "\uCCB4\uB825\uC774 \uC904\uC5B4\uB4E4\uC218\uB85D \uACF5\uACA9\uB825\uACFC
+      \uC774\uB3D9\uC18D\uB3C4\uAC00 \uC99D\uAC00\uD569\uB2C8\uB2E4. 30%\uC77C \uB54C
+      \uCD5C\uB300\uAC00 \uB429\uB2C8\uB2E4."
+    icon: {fileID: 21300000, guid: d5ec12d0560675d47baed837161a6117, type: 3}
+  - className: MoveSpeedUp
+    augmentationName: "\uC18D\uB3C4 \uC99D\uAC00"
+    description: "\uC774\uB3D9 \uC18D\uB3C4\uAC00 10& \uC99D\uAC00\uD569\uB2C8\uB2E4."
+    icon: {fileID: 21300000, guid: d5ec12d0560675d47baed837161a6117, type: 3}
